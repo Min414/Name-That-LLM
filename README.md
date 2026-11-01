@@ -49,7 +49,7 @@ pip install pandas scikit-learn transformers datasets accelerate ftfy
 
 1. Download the dataset from Kaggle and place the CSV in the working directory.
 2. Run the notebook cells in order: load data, split, baseline, char n-grams, DistilBERT, 2-class test, cross-validation, feature inspection.
-3. For DistilBERT, use a GPU runtime.
+3. For DistilBERT, change to a GPU runtime.
 
 ## Notes and limitations
 
